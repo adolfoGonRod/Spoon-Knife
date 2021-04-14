@@ -9,3 +9,6 @@ Después de bifurcar este repositorio, puede realizar algunos cambios en el proy
 Más information sobre como bifurcar un repositorio: [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Gracias a :sparkling_heart:
 
 git remote set-url origin https://github.com/adolfoGonRod/Spoon-Knife.git
+Tarea pendiente resolver problema con proxy sin vpn en TGSS 
+Cambiar de url como remoto: git remote set-url origin https://github.com/adolfoGonRod/Spoon-Knife.git
+siguiente paso hacer el pull-request-
