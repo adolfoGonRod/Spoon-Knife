@@ -7,3 +7,5 @@ Crear una * bifurcación * (fork) es producir una copia personal del proyecto de
 Después de bifurcar este repositorio, puede realizar algunos cambios en el proyecto. , y enviar solicitud de comentarios a (Pull Request) (https://github.com/AdolfoGonRod/Spoon-Knife/pulls) como práctica.
 
 Más information sobre como bifurcar un repositorio: [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Gracias a :sparkling_heart:
+
+git remote set-url origin https://github.com/adolfoGonRod/Spoon-Knife.git
